@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf35f718-569f-4696-ad61-0ddf560861e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution/No65.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Solution/No65Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution/No67.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Solution/No67Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,11 +56,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No65.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="No65.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solution/No65.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+            <state relative-caret-position="221">
+              <caret line="13" column="68" lean-forward="true" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No67.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solution/No67.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="48" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No67Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/Solution/No67Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -127,6 +147,8 @@
         <option value="$PROJECT_DIR$/src/Solution/No60.java" />
         <option value="$PROJECT_DIR$/test/Solution/No65Test.java" />
         <option value="$PROJECT_DIR$/src/Solution/No65.java" />
+        <option value="$PROJECT_DIR$/test/Solution/No67Test.java" />
+        <option value="$PROJECT_DIR$/src/Solution/No67.java" />
       </list>
     </option>
   </component>
@@ -137,8 +159,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="332" />
-    <option name="y" value="48" />
+    <option name="x" value="195" />
+    <option name="y" value="41" />
     <option name="width" value="1532" />
     <option name="height" value="940" />
   </component>
@@ -364,33 +386,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.No65Test">
-    <configuration default="false" name="No40Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Solution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="LeetCodeSolver" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Solution" />
-      <option name="MAIN_CLASS_NAME" value="Solution.No40Test" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.No67Test">
     <configuration default="false" name="No42Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -481,6 +477,32 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Solution" />
       <option name="MAIN_CLASS_NAME" value="Solution.No65Test" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="No67Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCodeSolver" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Solution" />
+      <option name="MAIN_CLASS_NAME" value="Solution.No67Test" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -899,19 +921,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Application" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.No40Test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.No42Test" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.No43Test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.No60Test" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.No65Test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.No42Test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.No43Test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.No60Test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.No65Test" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.No67Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.No65Test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.No60Test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.No43Test" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.No42Test" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.No40Test" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.No67Test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.No65Test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.No60Test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.No43Test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.No42Test" />
       </list>
     </recent_temporary>
   </component>
@@ -954,47 +976,53 @@
       <option name="project" value="LOCAL" />
       <updated>1498115694667</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add No.65">
+      <created>1498124481149</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1498124481149</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="No43Test - 2017.06.15 at 21h 44m 49s.xml">
-      <configuration name="No43Test" configurationId="JUnit" />
+    <history-entry file="No67Test - 2017.06.22 at 18h 49m 15s.xml">
+      <configuration name="No67Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="No43Test - 2017.06.15 at 21h 45m 03s.xml">
-      <configuration name="No43Test" configurationId="JUnit" />
+    <history-entry file="No67Test - 2017.06.22 at 18h 52m 02s.xml">
+      <configuration name="No67Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="No43Test - 2017.06.15 at 21h 45m 20s.xml">
-      <configuration name="No43Test" configurationId="JUnit" />
+    <history-entry file="No67Test - 2017.06.22 at 18h 52m 27s.xml">
+      <configuration name="No67Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="No60Test - 2017.06.22 at 15h 13m 21s.xml">
-      <configuration name="No60Test" configurationId="JUnit" />
+    <history-entry file="No67Test - 2017.06.22 at 18h 52m 57s.xml">
+      <configuration name="No67Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="No60Test - 2017.06.22 at 15h 14m 07s.xml">
-      <configuration name="No60Test" configurationId="JUnit" />
+    <history-entry file="No67Test - 2017.06.22 at 18h 54m 00s.xml">
+      <configuration name="No67Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="No65Test - 2017.06.22 at 17h 21m 13s.xml">
-      <configuration name="No65Test" configurationId="JUnit" />
+    <history-entry file="No67Test - 2017.06.22 at 18h 54m 14s.xml">
+      <configuration name="No67Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="No65Test - 2017.06.22 at 17h 21m 26s.xml">
-      <configuration name="No65Test" configurationId="JUnit" />
+    <history-entry file="No67Test - 2017.06.22 at 18h 59m 33s.xml">
+      <configuration name="No67Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="No65Test - 2017.06.22 at 17h 21m 36s.xml">
-      <configuration name="No65Test" configurationId="JUnit" />
+    <history-entry file="No67Test - 2017.06.22 at 18h 59m 53s.xml">
+      <configuration name="No67Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="No65Test - 2017.06.22 at 17h 22m 13s.xml">
-      <configuration name="No65Test" configurationId="JUnit" />
+    <history-entry file="No67Test - 2017.06.22 at 19h 00m 29s.xml">
+      <configuration name="No67Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="No65Test - 2017.06.22 at 17h 22m 31s.xml">
-      <configuration name="No65Test" configurationId="JUnit" />
+    <history-entry file="No67Test - 2017.06.22 at 19h 01m 12s.xml">
+      <configuration name="No67Test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19705000" />
+    <option name="totallyTimeSpent" value="21414000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="332" y="48" width="1532" height="940" extended-state="0" />
-    <editor active="true" />
+    <frame x="195" y="41" width="1532" height="940" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1006,19 +1034,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31017965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3508982" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12989557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12989557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32095808" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45748502" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1060,7 +1088,8 @@
     <MESSAGE value="add No.42" />
     <MESSAGE value="add No.44" />
     <MESSAGE value="add No.60" />
-    <option name="LAST_COMMIT_MESSAGE" value="add No.60" />
+    <MESSAGE value="add No.65" />
+    <option name="LAST_COMMIT_MESSAGE" value="add No.65" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1089,8 +1118,14 @@
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution/No67.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="28" />
+      <option name="time" value="29" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1099,20 +1134,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution/No41.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -1458,8 +1479,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution/No65.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+        <state relative-caret-position="221">
+          <caret line="13" column="68" lean-forward="true" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Solution/No67Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/No67.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
           <folding />
         </state>
       </provider>
