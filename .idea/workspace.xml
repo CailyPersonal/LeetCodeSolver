@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf35f718-569f-4696-ad61-0ddf560861e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution/No60.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Solution/No60Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution/No65.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Solution/No65Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,15 +43,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No60.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="No60.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solution/No60.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+            <state relative-caret-position="425">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#225#234#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No65.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solution/No65.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No65Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/Solution/No65Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="14" column="45" lean-forward="false" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -105,6 +125,8 @@
         <option value="$PROJECT_DIR$/src/Solution/No43.java" />
         <option value="$PROJECT_DIR$/test/Solution/No60Test.java" />
         <option value="$PROJECT_DIR$/src/Solution/No60.java" />
+        <option value="$PROJECT_DIR$/test/Solution/No65Test.java" />
+        <option value="$PROJECT_DIR$/src/Solution/No65.java" />
       </list>
     </option>
   </component>
@@ -115,8 +137,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="347" />
-    <option name="y" value="49" />
+    <option name="x" value="332" />
+    <option name="y" value="48" />
     <option name="width" value="1532" />
     <option name="height" value="940" />
   </component>
@@ -342,7 +364,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.No60Test">
+  <component name="RunManager" selected="JUnit.No65Test">
     <configuration default="false" name="No40Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -355,32 +377,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Solution" />
       <option name="MAIN_CLASS_NAME" value="Solution.No40Test" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="No41Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Solution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="LeetCodeSolver" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Solution" />
-      <option name="MAIN_CLASS_NAME" value="Solution.No41Test" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -459,6 +455,32 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Solution" />
       <option name="MAIN_CLASS_NAME" value="Solution.No60Test" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="No65Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCodeSolver" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Solution" />
+      <option name="MAIN_CLASS_NAME" value="Solution.No65Test" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -878,18 +900,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Application" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.No40Test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.No41Test" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.No42Test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.No43Test" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.No60Test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.No42Test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.No43Test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.No60Test" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.No65Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.No60Test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.No43Test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.No42Test" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.No40Test" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.No41Test" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.No65Test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.No60Test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.No43Test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.No42Test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.No40Test" />
       </list>
     </recent_temporary>
   </component>
@@ -925,25 +947,17 @@
       <option name="project" value="LOCAL" />
       <updated>1498094508129</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add No.60">
+      <created>1498115694667</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1498115694667</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="No43Test - 2017.06.15 at 21h 35m 38s.xml">
-      <configuration name="No43Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="No43Test - 2017.06.15 at 21h 35m 53s.xml">
-      <configuration name="No43Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="No43Test - 2017.06.15 at 21h 37m 14s.xml">
-      <configuration name="No43Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="No43Test - 2017.06.15 at 21h 39m 28s.xml">
-      <configuration name="No43Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="No43Test - 2017.06.15 at 21h 40m 00s.xml">
-      <configuration name="No43Test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="No43Test - 2017.06.15 at 21h 44m 49s.xml">
       <configuration name="No43Test" configurationId="JUnit" />
     </history-entry>
@@ -959,12 +973,27 @@
     <history-entry file="No60Test - 2017.06.22 at 15h 14m 07s.xml">
       <configuration name="No60Test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="No65Test - 2017.06.22 at 17h 21m 13s.xml">
+      <configuration name="No65Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="No65Test - 2017.06.22 at 17h 21m 26s.xml">
+      <configuration name="No65Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="No65Test - 2017.06.22 at 17h 21m 36s.xml">
+      <configuration name="No65Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="No65Test - 2017.06.22 at 17h 22m 13s.xml">
+      <configuration name="No65Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="No65Test - 2017.06.22 at 17h 22m 31s.xml">
+      <configuration name="No65Test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18167000" />
+    <option name="totallyTimeSpent" value="19705000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="347" y="49" width="1532" height="940" extended-state="0" />
+    <frame x="332" y="48" width="1532" height="940" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -989,7 +1018,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24550898" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32095808" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1030,7 +1059,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add No.42" />
     <MESSAGE value="add No.44" />
-    <option name="LAST_COMMIT_MESSAGE" value="add No.44" />
+    <MESSAGE value="add No.60" />
+    <option name="LAST_COMMIT_MESSAGE" value="add No.60" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1048,13 +1078,19 @@
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution/No60.java</url>
-          <line>11</line>
+          <url>file://$PROJECT_DIR$/src/Solution/No65.java</url>
+          <line>12</line>
           <properties />
-          <option name="timeStamp" value="24" />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution/No65.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="25" />
+      <option name="time" value="28" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1063,23 +1099,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/Solution/No40Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1420,12 +1439,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution/No60.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#225#234#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Solution/No65Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="45" lean-forward="false" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/No65.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
